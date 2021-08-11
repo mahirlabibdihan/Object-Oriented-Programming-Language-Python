@@ -1,7 +1,7 @@
 False	
 await	
 else	
-import	
+import
 pass
 None	
 break	

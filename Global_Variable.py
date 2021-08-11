@@ -1,4 +1,4 @@
-# Create a global variable outside of a function
+		# Create a global variable outside of a function
 x=10
 
 def f1():
